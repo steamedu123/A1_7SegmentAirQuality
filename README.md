@@ -9,7 +9,7 @@ How to make 7-segment Air quality monitoring with Arduino and PMS7003
 
 
 You can download STL file below
-* Thingiverse : 
+* Thingiverse : https://www.thingiverse.com/thing:3540109
 
 
 <img src="https://user-images.githubusercontent.com/50730409/57911705-6b8efe80-78c3-11e9-9fcd-86ed8009a93c.png">
